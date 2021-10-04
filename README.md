@@ -1,17 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<style>
-  body {
-    background-color: aqua;
-  }
-</style>
-<body>
-  <h1>Oláaaaaaaaaaa</h1>
-</body>
-</html>
+<h2>Seja bem vindo e bem vinda ao meu GitHub!</h2>
+<img src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif" alt="pessoa digitando">
