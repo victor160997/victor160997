@@ -22,8 +22,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor160997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Contato:</h2>
-<ul>
-  <li>e-mail: victor.men.dev@gmail.com</li>
-  <li>WhatsApp: 32984772121</li>
-  <li>LinkedIn: https://www.linkedin.com/in/victor-mendon%C3%A7a-915519216/</li>
-</ul>
+<div>
+  <h3>e-mail: victor.men.dev@gmail.com</h3>
+  <h3>WhatsApp: 32984772121</h3>
+  <a href="https://www.linkedin.com/in/victor-mendon%C3%A7a-915519216/"><img src="https://camo.githubusercontent.com/b0d5f2747001255786f0cc5d1f975e7de50c18f028b03cb9363fe5f7ee2c52ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6775696c6865726d6f2d6d617369642d34393436373762382f" /></a>
+</div>
