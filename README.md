@@ -26,3 +26,5 @@
   <li>WhatsApp: 32984772121</li>
   <li>LinkedIn: https://www.linkedin.com/in/victor-mendon%C3%A7a-915519216/</li>
 </ul>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor160997&hide=contribs,prs)
