@@ -29,4 +29,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor160997&hide=contribs,prs)
 
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = victor160997 & layout = compact )] (https://github.com/anuraghazra/github-readme- Estatísticas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor160997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
