@@ -11,14 +11,11 @@
   </ol>
 </span>
 <h2>Aqui no meu GitHub você encontrará projetos com:</h2>
-<ul>
-  <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="100px"></li>
-  <li><img src="https://img2.gratispng.com/20180824/ghg/kisspng-javascript-clip-art-openclipart-logo-number-5b8045d0be7b50.1522899915351331367802.jpg" width="100px"></li>
-  <li><img src="https://w7.pngwing.com/pngs/509/571/png-transparent-cascading-style-sheets-logo-css3-html-web-development-world-wide-web-blue-angle-web-design.png" width="100px"></li>
-  <li>Bootstrap</li>
-  <li>React Js</li>
-  <li>Redux</li>
-  <li>React Hooks</li>
+Languages:  <img src="https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" />
+  Bootstrap
+  React Js
+  Redux
+  React Hooks
 </ul>
 <h2>Contato:</h2>
 <ul>
