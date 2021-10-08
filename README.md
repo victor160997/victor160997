@@ -7,7 +7,7 @@
     <li>Familia 🥰</li>
     <li>Tecnologia 🖥️</li>
     <li>Inovação 🚀</li>
-    <li>Resolver problemas desafiadores 🚀</li>
+    <li>Resolver problemas desafiadores 🤓</li>
   </ol>
 </span>
 <h2>Aqui no meu GitHub você encontrará projetos com:</h2>
