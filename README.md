@@ -14,7 +14,7 @@
 
 <h3>Linguagens:</h3>
   <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" width="250px"/>
-  <img src="http://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png" width="250px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="250px" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor160997&hide=contribs,prs)
 
