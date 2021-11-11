@@ -12,7 +12,7 @@
 </span>
 <h2>Aqui no meu GitHub você encontrará projetos com:</h2>
 
-<h3>Linguagens:</h3><div><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" witdh="40px"/>
+<h3>Linguagens:</h3><div><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" witdh="40px"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor160997&hide=contribs,prs)
 
