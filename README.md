@@ -24,7 +24,7 @@
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="80px" /> 
   <div/>  
-
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor160997&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor160997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
