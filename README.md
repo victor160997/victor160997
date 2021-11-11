@@ -13,8 +13,7 @@
 <h2>Aqui no meu GitHub você encontrará projetos com:</h2>
 
 <h3>Linguagens:</h3>
-  <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" width="250px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="250px" />
+  <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" width="250px"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="150px" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor160997&hide=contribs,prs)
 
