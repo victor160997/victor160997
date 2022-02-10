@@ -22,11 +22,18 @@
   <img src="https://www.pngrepo.com/png/303557/180/redux-logo.png" width="80px" />
   <img src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" width="80px" />
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="80px" /> 
+  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="80px" />
+  <img src="https://me-webdev.com/ProgrammingLanguagesIcons/nextPNG.png" width="80px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="80px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="80px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="80px" />
+  <img src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png" width="80px" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="80px" />
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=victor160997&show_icons=true&theme=radical" />
   <div/>
-  <br>
-<img src="https://github-readme-stats.vercel.app/api?username=victor160997&show_icons=true&theme=radical" />
-<br>
+  <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor160997&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 <h2>Contato:</h2>
