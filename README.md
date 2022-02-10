@@ -1,7 +1,7 @@
 <h2>Seja bem vindo e bem vinda ao meu GitHub! 💥 💥 💥</h2>
 <img src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif" alt="pessoa digitando" width="200px">
 <span>Meu nome é Victor, tenho 24 anos e sou de Juiz de Fora - MG 👦🏾</span><br>
-<span>Sou desenvolvedor web Front-end e atualmente estou estudando Back-end na TRYBE 😄</span><br>
+<span>Sou desenvolvedor web fullstack 😄</span><br>
 <span>Minhas maiores paixões são:
   <ol>
     <li>Familia 🥰</li>
