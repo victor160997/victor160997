@@ -2,23 +2,7 @@
 <img src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif" alt="pessoa digitando" width="200px">
 <span>My name is Victor, a Software Engineer boasting over three years of professional experience and a passion for technology development spanning more than four years.</span><br>
 
-<h3>Skills:</h3>
 <div>
-  <img src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" width="80px"/>
-  <img src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" width="80px" />
-  <img src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" width="80px" />
-  <img src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" width="80px" />
-  <img src="https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667" width="80px" />
-  <img src="https://www.pngrepo.com/png/303557/180/redux-logo.png" width="80px" />
-  <img src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" width="80px" />
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px" />
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="80px" />
-  <img src="https://me-webdev.com/ProgrammingLanguagesIcons/nextPNG.png" width="80px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="80px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="80px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="80px" />
-  <img src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png" width="80px" />
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="80px" />
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=victor160997&show_icons=true&theme=radical" />
